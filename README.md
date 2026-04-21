@@ -64,21 +64,6 @@ MathNet spans **47 countries**, **17 languages**, and **two decades** of competi
 
 Even state-of-the-art reasoners remain challenged: **78.4% (Gemini-3.1-Pro)** and **69.3% (GPT-5)** on `MathNet-Solve-Test`. Embedding models struggle with equivalence retrieval (Recall@1 under 5% for all tested models), and RAG gains are highly sensitive to retrieval quality — expert retrieval lifts DeepSeek-V3.2-Speciale to **97.3%** on `MathNet-RAG`.
 
-## How MathNet compares to existing math benchmarks
-
-| Benchmark | Size | Languages | Multimodal | Source | Difficulty |
-|---|---:|---|:-:|---|---|
-| GSM8K | 8,500 | EN | — | Crowdsourced | Grade school |
-| MATH | 12,500 | EN | — | Competitions/textbooks | High school |
-| MATH-Vision | 3,040 | EN | ✓ | Math competitions | High school |
-| OlympiadBench | 6,142 | EN, ZH | ✓ | Official websites | Olympiad |
-| OlympicArena | 3,233 | EN, ZH | ✓ | Official websites | Olympiad |
-| Omni-Math | 4,428 | EN | — | AoPS / contest pages | Olympiad |
-| OlymMATH | 200 | EN, ZH | — | AoPS / official | Olympiad |
-| MathArena | 162 | EN | ✓ | Newly released competitions | Olympiad |
-| IMOBench | 460 | EN | — | IMO & national archives | Olympiad |
-| **MathNet (ours)** | **30,676** | **17** (EN, ZH, ES, RU, FR, RO, + 11 more) | **✓** | **Official country booklets / international & national contests** | **Olympiad** |
-
 ## Dataset at a glance
 
 <img src="assets/dataset_stats.png" alt="MathNet dataset statistics: contest types, solution length vs. prior benchmarks, problems per year, topic distribution, and language distribution" width="100%"/>
