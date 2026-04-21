@@ -5,10 +5,8 @@
 <img src="assets/title_w_logo_light.png" alt="MathNet" width="960"/>
 
 <a href="https://mathnet.mit.edu"><img alt="Website" src="https://img.shields.io/badge/website-mathnet.mit.edu-0d056f"></a>
+<a href="https://mathnet.mit.edu/explorer.html"><img alt="Dataset Explorer" src="https://img.shields.io/badge/website-mathnet.mit.edu-0d056f"></a>
 <a href="https://arxiv.org/abs/2604.18584"><img alt="ICLR 2026" src="https://img.shields.io/badge/ICLR-2026-b31b1b"></a>
-<a href="https://github.com/ShadenA/MathNet"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repository-181717"></a>
-<a href="https://huggingface.co/datasets/ShadenA/MathNet"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Dataset-ffcc00"></a>
-<a href="https://github.com/ShadenA/MathNet"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repository-181717"></a>
 <a href="https://huggingface.co/datasets/ShadenA/MathNet"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Dataset-ffcc00"></a>
 
 **Shaden Alshammari**<sup>1\*</sup> &ensp; **Kevin Wen**<sup>1\*</sup> &ensp; **Abrar Zainal**<sup>3\*</sup> &ensp; **Mark Hamilton**<sup>1</sup>
