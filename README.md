@@ -1,14 +1,16 @@
-# MathNet — Olympiad Math Reasoning & Retrieval
 
 <div align="center">
 
 <img src="assets/title_w_logo_light.png" alt="MathNet" width="960"/>
+
+**ICLR 2026**
 
 <a href="https://mathnet.mit.edu"><img alt="Website" src="https://img.shields.io/badge/website-mathnet.mit.edu-0d056f"></a>
 <a href="https://arxiv.org/abs/2604.18584"><img alt="ICLR 2026" src="https://img.shields.io/badge/ICLR-2026-b31b1b"></a>
 <a href="https://huggingface.co/datasets/ShadenA/MathNet"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Dataset-ffcc00"></a>
 
 **Shaden Alshammari**<sup>1\*</sup> &ensp; **Kevin Wen**<sup>1\*</sup> &ensp; **Abrar Zainal**<sup>3\*</sup> &ensp; **Mark Hamilton**<sup>1</sup>
+
 **Navid Safaei**<sup>4</sup> &ensp; **Sultan Albarakati**<sup>2</sup> &ensp; **William T. Freeman**<sup>1†</sup> &ensp; **Antonio Torralba**<sup>1†</sup>
 
 <sup>1</sup>MIT &ensp; <sup>2</sup>KAUST &ensp; <sup>3</sup>HUMAIN &ensp; <sup>4</sup>Bulgarian Academy of Sciences &ensp; <sub>\*† equal contribution</sub>
@@ -17,7 +19,7 @@
 
 ---
 
-[Quick Start](#quick-start) · [Overview](#overview) · [Tasks](#three-benchmark-tasks) · [Comparison](#how-mathnet-compares-to-existing-math-benchmarks) · [Dataset Stats](#dataset-at-a-glance) · [Data Sources](#data-sources) · [Pipeline](#data-pipeline) · [Schema](#schema) · [Scripts](#scripts) · [License](#license) · [Citation](#citation) · [Useful Links](#useful-links)
+[Quick Start](#quick-start) · [Overview](#overview) · [Tasks](#three-benchmark-tasks) · [Dataset Stats](#dataset-at-a-glance) · [Data Sources](#data-sources) · [Pipeline](#data-pipeline) · [Schema](#schema) · [License](#license) · [Citation](#citation) · [Useful Links](#useful-links)
 
 ---
 
